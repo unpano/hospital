@@ -1,0 +1,64 @@
+﻿<Window x:Class="HCI_wpf_Andjela_Paunovic.ScheduleOperation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HCI_wpf_Andjela_Paunovic" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Height="600" Width="430" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <x:Array x:Key="interventionType" Type="sys:String">
+            <sys:String>examination</sys:String>
+            <sys:String>surgery</sys:String>
+            <sys:String>stationaryTreatment</sys:String>
+        </x:Array>
+    </Window.Resources>
+    <StackPanel Margin="0,0,0.333,-6.667">
+        <materialDesign:PackIcon MouseDown="PackIcon_MouseDown" Kind="ArrowBack" Foreground="DimGray" Width="38" Height="38" VerticalAlignment="Center"/>
+        <StackPanel Margin="27,-3,10.333,45.333" Height="523">
+            <Label FontSize="30" FontWeight="Bold" HorizontalAlignment="Center" Margin="33,10,21,10" Content="Schedule intervention" Height="46" Width="332" />
+            <materialDesign:MaterialDateDisplay  HorizontalAlignment="Center" Height="59" Margin="107,0,101,0" Width="178"></materialDesign:MaterialDateDisplay>
+
+            <DatePicker Name="date" Margin="45,40,44.333,0"></DatePicker>
+            <materialDesign:TimePicker Name="time" Margin="45,10,0,0" HorizontalAlignment="Left" Width="297"/>
+            <Label FontSize="17" Content="Intervetion type:" Margin="45,0,44,0" />
+            <ComboBox Name="interventionComboBox" IsEditable="True" ItemsSource="{StaticResource interventionType}" Margin="45,0,44,0"/>
+
+            <StackPanel Margin="45,20,44.333,0">
+                <Label FontSize="17" Content="Speciality" />
+                <ComboBox Name="specComboBox" IsEditable="True" ItemsSource="{Binding Specializations}" SelectedItem="{Binding Path=ShowSpec}" DisplayMemberPath="SpecName"/>
+                <Button Margin="0 30 0 0" Click="Button_Click">Filter doctors by speciality</Button>
+            </StackPanel>
+            <StackPanel Margin="45,10,44.333,0">
+                <Label FontSize="17" Content="Doctors" />
+                <ComboBox Name="doctorComboBox" IsEditable="True" ItemsSource="{Binding Doctors}" SelectedItem="{Binding Path=ShowDoctor}" DisplayMemberPath="FirstName" />
+            </StackPanel>
+            <Button Margin="0 20 0 0" Height="30" Width="80" Background="DimGray" Foreground="White" BorderBrush="White" FontSize="14" FontWeight="Bold"
+                Click="submitClick" Content="Submit" >
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="LightBlue" />
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="{x:Type Button}">
+                                    <Border x:Name="Border" Background="{TemplateBinding Background}">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                    </Border>
+                                    <ControlTemplate.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="Black" TargetName="Border" />
+                                        </Trigger>
+                                    </ControlTemplate.Triggers>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+        </StackPanel>
+    </StackPanel>
+</Window>

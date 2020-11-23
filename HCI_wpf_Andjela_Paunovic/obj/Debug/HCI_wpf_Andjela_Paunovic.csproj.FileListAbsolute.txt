@@ -1,0 +1,478 @@
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.exe.config
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.exe
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.pdb
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csprojAssemblyReference.cache
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\App.g.cs
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic_MarkupCompile.cache
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic_MarkupCompile.lref
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.g.resources
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.Properties.Resources.resources
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.GenerateResource.cache
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.CoreCompileInputs.cache
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.exe
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.pdb
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Login.g.cs
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Window1.g.cs
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Login.baml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Window1.baml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Buffers.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Memory.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Buffers.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Memory.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows User\Desktop\HCI\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.CopyComplete
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.exe.config
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.exe
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.pdb
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Buffers.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Memory.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Buffers.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Memory.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csprojAssemblyReference.cache
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Login.g.cs
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\App.g.cs
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic_MarkupCompile.cache
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic_MarkupCompile.lref
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Login.baml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.g.resources
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.Properties.Resources.resources
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.GenerateResource.cache
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.CoreCompileInputs.cache
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.CopyComplete
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.exe
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.pdb
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\MedicationList.g.cs
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\MedicationList.baml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\SingleMedication.g.cs
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\SingleMedication.baml
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\GeneratedReport.g.cs
+C:\Users\natas\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\GeneratedReport.baml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.exe.config
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.exe
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.pdb
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Buffers.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Memory.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Buffers.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Memory.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csprojAssemblyReference.cache
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\GeneratedReport.g.cs
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Login.g.cs
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\MedicationList.g.cs
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\SingleMedication.g.cs
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\App.g.cs
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic_MarkupCompile.cache
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic_MarkupCompile.lref
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\GeneratedReport.baml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Login.baml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\MedicationList.baml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\SingleMedication.baml
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.g.resources
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.Properties.Resources.resources
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.GenerateResource.cache
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.CoreCompileInputs.cache
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.CopyComplete
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.exe
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.pdb
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ReportForm.g.cs
+C:\Users\Windows User\Desktop\Projekat\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ReportForm.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.exe.config
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.exe
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.pdb
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Buffers.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Memory.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Buffers.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Memory.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csprojAssemblyReference.cache
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\GeneratedReport.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Login.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\MedicationList.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ReportForm.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\SingleMedication.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\App.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic_MarkupCompile.cache
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic_MarkupCompile.lref
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\GeneratedReport.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Login.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\MedicationList.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ReportForm.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\SingleMedication.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.g.resources
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.Properties.Resources.resources
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.GenerateResource.cache
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.CoreCompileInputs.cache
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.CopyComplete
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.exe
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.pdb
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\invalidLogin.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\invalidLogin.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ForgottenPassword.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ForgottenPassword.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\LeaveFeedback.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ScheduleOperation.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\LeaveFeedback.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ScheduleOperation.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignColors.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Profile.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Profile.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ProfileContent.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ProfileContent.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Appointments.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Appointments.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Questions.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Schedule.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Questions.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Schedule.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Examine.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Examine.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Reply.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Reply.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Therapies.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Therapies.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\PatientInfo.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\PatientInfo.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\AddExamination.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\AddExamination.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Prescription.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Prescription.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\EarlierExaminations.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\EarlierExaminations.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ExaminationShow.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ExaminationShow.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Wizard.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Wizard.baml
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Wizard1.g.cs
+C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Wizard1.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.exe.config
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.exe
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.pdb
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignColors.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Buffers.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Memory.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Buffers.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Memory.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csprojAssemblyReference.cache
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\AddExamination.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Appointments.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\EarlierExaminations.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ExaminationShow.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Examine.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ForgottenPassword.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\GeneratedReport.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\InvalidLogin.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\LeaveFeedback.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Login.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\MedicationList.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\PatientInfo.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Prescription.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Profile.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Questions.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Reply.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ReportForm.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ScheduleOperation.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\SingleMedication.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Therapies.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Wizard.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Wizard1.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\App.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic_MarkupCompile.cache
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic_MarkupCompile.lref
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\AddExamination.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Appointments.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\EarlierExaminations.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ExaminationShow.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Examine.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ForgottenPassword.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\GeneratedReport.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\InvalidLogin.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\LeaveFeedback.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Login.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\MedicationList.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\PatientInfo.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Prescription.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Profile.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Questions.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Reply.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ReportForm.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ScheduleOperation.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\SingleMedication.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Therapies.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Wizard.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Wizard1.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.g.resources
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.Properties.Resources.resources
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.GenerateResource.cache
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.CoreCompileInputs.cache
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.CopyComplete
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.exe
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.pdb
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\AddTherapy.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\AddTherapy.baml
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Forma.g.cs
+C:\Users\Andjela Paunovic\Desktop\projekat2\project\zdravoCorporationBackend\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Forma.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.exe.config
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.exe
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\HCI_wpf_Andjela_Paunovic.pdb
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignColors.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Buffers.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Memory.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Buffers.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Memory.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csprojAssemblyReference.cache
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\AddExamination.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\AddTherapy.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Appointments.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\EarlierExaminations.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ExaminationShow.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Examine.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ForgottenPassword.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Forma.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\GeneratedReport.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\InvalidLogin.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\LeaveFeedback.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Login.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\MedicationList.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\PatientInfo.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Prescription.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Profile.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Questions.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Reply.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ReportForm.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ScheduleOperation.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\SingleMedication.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Therapies.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Wizard.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Wizard1.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\App.g.cs
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic_MarkupCompile.cache
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic_MarkupCompile.lref
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\AddExamination.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\AddTherapy.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Appointments.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\EarlierExaminations.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ExaminationShow.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Examine.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ForgottenPassword.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Forma.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\GeneratedReport.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\InvalidLogin.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\LeaveFeedback.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Login.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\MedicationList.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\PatientInfo.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Prescription.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Profile.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Questions.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Reply.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ReportForm.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\ScheduleOperation.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\SingleMedication.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Therapies.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Wizard.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\Wizard1.baml
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.g.resources
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.Properties.Resources.resources
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.GenerateResource.cache
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.CoreCompileInputs.cache
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.csproj.CopyComplete
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.exe
+C:\Users\Andjela Paunovic\Desktop\HCI_wpf_Andjela_Paunovic\HCI_wpf_Andjela_Paunovic\obj\Debug\HCI_wpf_Andjela_Paunovic.pdb

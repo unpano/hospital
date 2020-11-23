@@ -1,0 +1,13 @@
+﻿id,firstName,lastName,username,password,email,JMBG,birthDateTime,address,phoneNumber,role,workTime,specialization
+0,Matea,Ristic,matea,matea,matearistic@gmail.com,1403967501910,1967-03-14,Pozarevacka 13,38163554675,Doctor,null,Oncologist
+1,Valentina,Trifunovic,valentina,valentina,valentinatrifunovic@gmail.com,1508980501910,1980-08-15,Suboticka 7 ,38163554675,Doctor,null,Cardiologist
+2,Marko,Petrovic,marko,marko,markopetrovic@gmail.com,1709992501910,1992-09-17,Omladinska BB,38163554675,Doctor,null,Oncologist
+3,Kosta,Rebic,kosta,kosta,kostarebic@gmail.com,1308991501910,1991-08-13,Kosovska BB,38163554675,Doctor,null,Oncologist
+4,Srdjan,Kostic,srdjan,srdjan,srdjankostic@gmail.com,1303979501910,1979-03-13,Rudnicka 17,38163554675,Doctor,null,Oncologist
+5,Ana,Filipovic,ana,ana,anafilipovic@gmail.com,1405963501910,1963-05-14,Kostina 3,38163554675,Doctor,null,Cardiologist
+6,Mladen,Kesic,mladen,mladen,mladenkesic@gmail.com,1607990501910,1990-07-16,Vukole Dabica 4,38163554675,Doctor,null,Cardiologist
+7,Sofija,Ristovic,sofija,sofija,sofijaristovic@gmail.com,3003984501910,1984-03-30,Zicka,38163554675,Doctor,null,Cardiologist
+8,Mateja,Saric,mateja,mateja,matejasaric@gmail.com,1701979501910,1979-01-17,Topolska 18,38163554675,Doctor,null,Cardiologist
+9,Anica,Jovanovic,anica,anica,anicajovanovic@gmail.com,2906985501910,1985-06-29,Vidovdanska 7,38163554675,Doctor,null,Cardiologist
+10,Nikola,Tomic,nikola,nikola,nikolatomic@gmail.com,1804977501910,1977-04-18,Jug Bogdanova 13,38163554675,Doctor,null,Cardiologist
+11,Sandra,Maric,sandra,sandra,sandramaric@gmail.com,1312990501910,1990-12-13,Stevina 8,38163554675,Doctor,null,Cardiologist

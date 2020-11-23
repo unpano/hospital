@@ -1,0 +1,17 @@
+﻿<Window x:Class="HCI_wpf_Andjela_Paunovic.AddTherapy"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HCI_wpf_Andjela_Paunovic" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+         Height="600" Width="430" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <StackPanel>
+        <materialDesign:PackIcon MouseDown="PackIcon_MouseDown" Kind="ArrowBack" Foreground="DimGray" Width="38" Height="38" VerticalAlignment="Center"/>
+
+        <Label FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="50 70 50 30">Prescribe medicine</Label>
+        <ComboBox Name="dropMedications" IsEditable="True" ItemsSource="{Binding Medications}" SelectedItem="{Binding Path=ShowMedication}" DisplayMemberPath="Name" />
+        <TextBox x:Name="dose"></TextBox>
+        <Button Click="submitClick">Submit</Button>
+    </StackPanel>
+</Window>

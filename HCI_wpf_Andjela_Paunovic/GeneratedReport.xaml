@@ -1,0 +1,107 @@
+﻿<Window x:Class="HCI_wpf_Andjela_Paunovic.GeneratedReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HCI_wpf_Andjela_Paunovic"
+        mc:Ignorable="d"
+        Height="750" Width="430" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <StackPanel>
+        <Button Click="Back_Click" Height="40" Width="40" HorizontalAlignment="Left" BorderThickness="0" Background="White">
+            <Image Source="C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\backIcon.jpg"></Image>
+        </Button>
+        <Label Margin="15" FontSize="22" FontWeight="Bold" HorizontalAlignment="Center">Report on consumption of medicines</Label>
+        <Label Margin="15" FontSize="22" FontWeight="Bold" HorizontalAlignment="Center">Period 01 Apr - 01 May 2020</Label>
+        <Image Source="C:\Users\Andjela Paunovic\Desktop\Projekat HCI\HCI_wpf_Andjela_Paunovic\pieChart.jpg" Margin="0,0,0.333,0"/>
+        <FlowDocumentReader>
+            <FlowDocument>
+                <Table CellSpacing="5">
+                    <Table.Columns>
+                        <TableColumn/>
+                        <TableColumn/>
+                        <TableColumn/>
+                        <TableColumn/>
+                    </Table.Columns>
+
+                    <TableRowGroup>
+                        <!-- Header row for the table. -->
+                        <TableRow Background="LightGoldenrodYellow">
+                            <TableCell>
+                                <Paragraph FontSize="12pt" FontWeight="Bold">Medicine name</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph FontSize="12pt" FontWeight="Bold">Quantity used</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph FontSize="12pt" FontWeight="Bold">Total</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph FontSize="12pt" FontWeight="Bold">Percentage</Paragraph>
+                            </TableCell>
+                        </TableRow>
+
+                        <!-- Four data rows for the inner planets. -->
+                        <TableRow>
+                            <TableCell>
+                                <Paragraph>Abelcet</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>30</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>120 pcs</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>25%</Paragraph>
+                            </TableCell>
+                        </TableRow>
+                        <TableRow>
+                            <TableCell>
+                                <Paragraph>Abilify</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>80</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>320 pcs</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>25%</Paragraph>
+                            </TableCell>
+                        </TableRow>
+                        <TableRow>
+                            <TableCell>
+                                <Paragraph>Abilify Maintena</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>20</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>400</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>5%</Paragraph>
+                            </TableCell>
+                        </TableRow>
+                        <TableRow>
+                            <TableCell>
+                                <Paragraph></Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph></Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph></Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph></Paragraph>
+                            </TableCell>
+                        </TableRow>
+
+                    </TableRowGroup>
+                </Table>
+            </FlowDocument>
+        </FlowDocumentReader>
+
+    </StackPanel>
+</Window>
